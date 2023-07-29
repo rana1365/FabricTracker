@@ -1,3 +1,5 @@
 {
-    Name=>" SOHEL RANA "
+    "DbName": "fabric_tracker",
+    "UserName": "rana",
+    "Password": " 12345"
 }
